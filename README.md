@@ -3,7 +3,10 @@ This is an assignment developed for a Java Programming class.
 
 ## Installation
 1. Download files
-2. Run dist\cafeteria.jar
+2. Run [dist/cafeteria.jar](dist/cafeteria.jar)
+
+## Documentation
+The [documentation](jpDocumentation.docx) for the assignment includes the functionality of the application.
 
 ## Usernames / Passwords
 1. mtlks / admin
@@ -11,4 +14,4 @@ This is an assignment developed for a Java Programming class.
 3. customer / customer
 
 ## License
-[MIT License](https://github.com/MTLKS/cafe-teria/blob/master/LICENSE)
+[MIT License](LICENSE.md)
