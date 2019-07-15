@@ -1,0 +1,13 @@
+Cafeteria Receipt
+---------------
+Customer: Customer Y
+Staff: Staff X
+2019-07-15 13:39:02
+---------------
+7.8 Chicken Noodles
+25.0 Steak
+7.6 Iced Latte
+8.6 Iced Mocha
+5.4 Ice Peach Tea
+--------------------
+Total: 54.4

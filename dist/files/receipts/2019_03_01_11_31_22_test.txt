@@ -1,0 +1,13 @@
+Cafeteria Receipt
+---------------
+Customer: Test2
+Staff: MTLKS
+2019-03-01 11:31:22
+---------------
+10.8 Chicken Chop
+10.8 Chicken Chop
+10.8 Chicken Chop
+4.9 Lemon Tea
+8.6 Iced Mocha
+--------------------
+Total: 45.9

@@ -1,0 +1,9 @@
+Cafeteria Receipt
+---------------
+Customer: Test2
+Staff: MTLKS
+2019-03-01 11:32:19
+---------------
+7.6 Iced Latte
+--------------------
+Total: 53.5

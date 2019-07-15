@@ -1,0 +1,14 @@
+Fried%20Rice;Rice;4.8;food
+Fried%20Noodles;Noodles%20that%20are%20fried;4.8;food
+Chicken%20Rice;Rice%20with%20chicken;7.8;food
+Chicken%20Noodles;Noodles%20with%20chicken;7.8;food
+Chicken%20Chop;Chicken%20that%20is%20chopped;10.8;food
+Lamb%20Chop;Lamb%20that%20is%20chopped;18.5;food
+Steak;Meat;25.0;food
+Ice%20Lemon%20Tea;Iced%20tea%20with%20lemon;5.4;drink
+Ice%20Peach%20Tea;Iced%20tea%20with%20peach;5.4;drink
+Lemon%20Tea;Tea%20with%20lemon;4.9;drink
+Peach%20Tea;Tea%20with%20peach;4.9;drink
+Iced%20Latte;Latte%20with%20ice;7.6;drink
+Iced%20Mocha;Mocha%20with%20ice;8.6;drink
+Chicken;chicken;6.8;food

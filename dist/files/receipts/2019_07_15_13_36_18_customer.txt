@@ -1,0 +1,13 @@
+Cafeteria Receipt
+---------------
+Customer: Customer Y
+Staff: Staff X
+2019-07-15 13:36:18
+---------------
+4.8 Fried Rice
+18.5 Lamb Chop
+6.8 Chicken
+4.8 Fried Rice
+10.8 Chicken Chop
+--------------------
+Total: 45.7

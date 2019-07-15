@@ -1,0 +1,11 @@
+Cafeteria Receipt
+---------------
+Customer: Customer Y
+Staff: Staff X
+2019-07-15 13:36:28
+---------------
+7.8 Chicken Noodles
+6.8 Chicken
+18.5 Lamb Chop
+--------------------
+Total: 78.8
